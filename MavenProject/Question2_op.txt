@@ -1,0 +1,59 @@
+================ LOCAL REPOSITORY ================
+bash: C:\Users\YATHINDRA: No such file or directory
+
+'3D Objects'/
+ Anaconda3/
+ AndroidStudioProjects/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ data/
+ Desktop/
+ Documents/
+ Downloads/
+ Dropbox/
+ eclipse/
+ eclipse-workspace/
+ Favorites/
+ GitProject/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ mavenprojects/
+ MicrosoftEdgeBackups/
+ mongodb/
+ mongodb-src-r4.2.5/
+ Music/
+'My Documents'@
+ NetHood@
+ NTUSER.DAT
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ NTUSER.DAT{8ef46f66-d530-11e9-a167-e566f7ed9384}.TxR.0.regtrans-ms
+ NTUSER.DAT{8ef46f66-d530-11e9-a167-e566f7ed9384}.TxR.1.regtrans-ms
+ NTUSER.DAT{8ef46f66-d530-11e9-a167-e566f7ed9384}.TxR.2.regtrans-ms
+ NTUSER.DAT{8ef46f66-d530-11e9-a167-e566f7ed9384}.TxR.blf
+ NTUSER.DAT{8ef46f67-d530-11e9-a167-e566f7ed9384}.TM.blf
+ NTUSER.DAT{8ef46f67-d530-11e9-a167-e566f7ed9384}.TMContainer0000000000000000000                                                                                                                1.regtrans-ms
+ NTUSER.DAT{8ef46f67-d530-11e9-a167-e566f7ed9384}.TMContainer0000000000000000000                                                                                                                2.regtrans-ms
+ ntuser.ini
+ OneDrive/
+ Oracle/
+ Pictures/
+ postgresql_12.exe*
+ postgresql-12.0-1-windows-x64.exe*
+ PrintHood@
+ Recent@
+'Sapient Projects'/
+'Saved Games'/
+ Searches/
+ SendTo@
+ source/
+'Start Menu'@
+ Templates@
+ Tracing/
+ Untitled.ipynb
+ Videos/
+ web/
+

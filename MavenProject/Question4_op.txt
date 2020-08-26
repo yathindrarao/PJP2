@@ -1,0 +1,40 @@
+=================Prevent maven from downloading dependencies every time=========                                                                                                                ========
+[INFO] Scanning for projects...
+[INFO]
+[INFO] -------------< com.sapientPJP2.week2:first-maven-project >--------------
+[INFO] Building first-maven-project 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ first-maven-project --                                                                                                                -
+[INFO] Deleting C:\Users\YATHINDRA RAO\Sapient Projects\MavenProject\target
+[INFO]
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ first-mave                                                                                                                n-project ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources,                                                                                                                 i.e. build is platform dependent!
+[INFO] Copying 0 resource
+[INFO]
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ first-maven-pro                                                                                                                ject ---
+[INFO] Changes detected - recompiling the module!
+[WARNING] File encoding has not been set, using platform encoding Cp1252, i.e. b                                                                                                                uild is platform dependent!
+[INFO] Compiling 1 source file to C:\Users\YATHINDRA RAO\Sapient Projects\MavenP                                                                                                                roject\target\classes
+[INFO]
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ fi                                                                                                                rst-maven-project ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources,                                                                                                                 i.e. build is platform dependent!
+[INFO] Copying 0 resource
+[INFO]
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ first-m                                                                                                                aven-project ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ first-maven-projec                                                                                                                t ---
+[INFO]
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ first-maven-project ---
+[INFO] Building jar: C:\Users\YATHINDRA RAO\Sapient Projects\MavenProject\target                                                                                                                \first-maven-project-0.0.1-SNAPSHOT.jar
+[INFO]
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ first-maven-proj                                                                                                                ect ---
+[INFO] Installing C:\Users\YATHINDRA RAO\Sapient Projects\MavenProject\target\fi                                                                                                                rst-maven-project-0.0.1-SNAPSHOT.jar to C:\Users\YATHINDRA RAO\.m2\repository\co                                                                                                                m\sapientPJP2\week2\first-maven-project\0.0.1-SNAPSHOT\first-maven-project-0.0.1                                                                                                                -SNAPSHOT.jar
+[INFO] Installing C:\Users\YATHINDRA RAO\Sapient Projects\MavenProject\pom.xml t                                                                                                                o C:\Users\YATHINDRA RAO\.m2\repository\com\sapientPJP2\week2\first-maven-projec                                                                                                                t\0.0.1-SNAPSHOT\first-maven-project-0.0.1-SNAPSHOT.pom
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  13.829 s
+[INFO] Finished at: 2020-08-26T16:57:12+05:30
+[INFO] ------------------------------------------------------------------------
